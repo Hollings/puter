@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Simulated Test Repository
+
+This is a test repository in a simulated computer environment. It's a safe space to practice Git operations and explore version control concepts.
+
+## Purpose
+- Testing Git functionality
+- Learning and experimentation
+- Safe environment for practice
+
+Created on: October 28, 2024
+>>>>>>> 11b75a40cd60c14a31ddceac0169cb0036816e31
